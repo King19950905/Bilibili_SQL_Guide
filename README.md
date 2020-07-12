@@ -1,5 +1,4 @@
-# Bilibili_SQL_guide
-B站SQL教学视频资料
+# B站SQL教学视频资料
 
 ## 视频地址
 
