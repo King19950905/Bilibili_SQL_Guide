@@ -4,4 +4,4 @@
 https://www.bilibili.com/video/BV1DA411e7QU/
 
 ## 已更新章节
-- Lecture 0.课程导言
+- Lecture 0 - 课程导言
